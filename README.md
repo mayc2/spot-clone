@@ -11,4 +11,3 @@ This project will include:
 - React Stack
 - React Hooks 
 - Firebase
-
